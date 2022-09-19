@@ -1,5 +1,8 @@
 # kdb+taq
 
+## AUTHOR NOTE
+This is a fork version of the offical repo created by **Roxanne Chui** on *September 19, 2022*.
+
 ## Changes to kdb+taq
 
 ### 2022.01.06 (`Bid_Price` type fix in tq.q)
