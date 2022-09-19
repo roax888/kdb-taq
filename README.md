@@ -1,7 +1,7 @@
 # kdb+taq
 
 ## AUTHOR NOTE
-This is a fork version of the offical repo created by **Roxanne Chui** on *September 19, 2022*.
+This is a fork version of the offical repo created by **Roxanne Chui** on *September 20, 2022*.
 
 ## Changes to kdb+taq
 
